@@ -12,3 +12,15 @@
 .nav-div a:hover{
     color: #29ABE2;
 }
+.twitter-btn{
+    margin-left: -40px;
+}
+.twitter-btn button{
+    width: 250px;
+    background-color: #29ABE2;
+    font-weight: 600;
+}
+.bi-caret-down-fill:hover{
+    color: #29ABE2;
+    cursor: pointer;
+}
