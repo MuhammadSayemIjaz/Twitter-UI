@@ -49,3 +49,11 @@ section{
     font-weight: 600;
     color: #75758A;
 }
+.icon{
+    color: #29ABE2;
+    justify-content: space-around;
+    cursor: pointer;
+}
+.icon:hover{
+    color: #000;
+}
