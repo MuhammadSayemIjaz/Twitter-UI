@@ -81,3 +81,31 @@ section{
 .searchBarDiv{
     background-color: rgba(129, 147, 170, 0.384);
 }
+.trendContainer{
+    border-radius: 10px;
+    background-color: #C0D9E4;
+}
+.trendingText{
+    font-size: smaller;
+}
+.showMoreText{
+    color: #29ABE2;
+    cursor: pointer;
+}
+.showMoreText:hover{
+    color: #000;
+}
+.trandsText {
+    font-weight: 900;
+}
+.trendIcons:hover{
+    color: #29ABE2;
+    cursor: pointer;
+}
+.trendSettingIcon{
+    color:#29ABE2;
+    cursor: pointer;
+}
+.trendSettingIcon:hover{
+    color: #000;
+}
