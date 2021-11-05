@@ -109,3 +109,7 @@ section{
 .trendSettingIcon:hover{
     color: #000;
 }
+.footerText{
+    font-size: small;
+    color: #75758A;
+}
