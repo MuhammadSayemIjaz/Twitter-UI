@@ -64,3 +64,20 @@ section{
 .tweetProfileImg{
     padding-left: 1rem;
 }
+.search-icon{
+    color: #29ABE2;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.search-icon:hover{
+    opacity: 0.6;
+}
+.search-input{
+    color: #808AA6;
+    width: 100%;
+    outline: none;
+    background-color: transparent;
+}
+.searchBarDiv{
+    background-color: rgba(129, 147, 170, 0.384);
+}
