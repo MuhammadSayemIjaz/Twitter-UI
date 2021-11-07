@@ -119,17 +119,9 @@ section{
     right: 0;
     height: 101vh;
     overflow: auto;
-    width: 370px;
-}
-.leftNavBar{
-    width: 300px;
 }
 .MainContent{
     position: absolute;
     top: 0;
-    left: 22.5%;
-}
-
-@media screen and (min-width: 1024px) {
-    
+    left: 25%;
 }
